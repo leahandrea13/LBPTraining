@@ -1,0 +1,36 @@
+{
+  "itemId" : "_mr6icMBAEfCNCJ30_K7XGQ",
+  "contextList" : [ {
+    "contextName" : "Production",
+    "repoId" : "_P2aLgMBaEfCNCJ30_K7XGQ",
+    "parameterList" : [ {
+      "id" : "_QHlbFcBaEfCNCJ30_K7XGQ",
+      "name" : "file_path"
+    }, {
+      "id" : "_QHlbFsBaEfCNCJ30_K7XGQ",
+      "name" : "file_name"
+    }, {
+      "id" : "_QHlbF8BaEfCNCJ30_K7XGQ",
+      "name" : "row_separator"
+    }, {
+      "id" : "_QHlbGMBaEfCNCJ30_K7XGQ",
+      "name" : "field_separator"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_P2aLgMBaEfCNCJ30_K7XGQ",
+    "parameterList" : [ {
+      "id" : "_QHlbEMBaEfCNCJ30_K7XGQ",
+      "name" : "file_path"
+    }, {
+      "id" : "_QHlbEcBaEfCNCJ30_K7XGQ",
+      "name" : "file_name"
+    }, {
+      "id" : "_QHlbEsBaEfCNCJ30_K7XGQ",
+      "name" : "row_separator"
+    }, {
+      "id" : "_QHlbE8BaEfCNCJ30_K7XGQ",
+      "name" : "field_separator"
+    } ]
+  } ]
+}

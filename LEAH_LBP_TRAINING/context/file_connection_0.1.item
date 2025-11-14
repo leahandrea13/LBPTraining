@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_QHkM8MBaEfCNCJ30_K7XGQ" confirmationNeeded="false" hide="false" name="Development">
+    <contextParameter xmi:id="_QHlbEMBaEfCNCJ30_K7XGQ" comment="" name="file_path" prompt="file_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="D:\TALEND"/>
+    <contextParameter xmi:id="_QHlbEcBaEfCNCJ30_K7XGQ" comment="" name="file_name" prompt="file_name?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Customer_record_1.csv"/>
+    <contextParameter xmi:id="_QHlbEsBaEfCNCJ30_K7XGQ" comment="" name="row_separator" prompt="row_separator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="\n"/>
+    <contextParameter xmi:id="_QHlbE8BaEfCNCJ30_K7XGQ" comment="" name="field_separator" prompt="field_separator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=","/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_QHlbFMBaEfCNCJ30_K7XGQ" confirmationNeeded="false" hide="false" name="Production">
+    <contextParameter xmi:id="_QHlbFcBaEfCNCJ30_K7XGQ" comment="" name="file_path" prompt="file_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_QHlbFsBaEfCNCJ30_K7XGQ" comment="" name="file_name" prompt="file_name?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_QHlbF8BaEfCNCJ30_K7XGQ" comment="" name="row_separator" prompt="row_separator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_QHlbGMBaEfCNCJ30_K7XGQ" comment="" name="field_separator" prompt="field_separator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

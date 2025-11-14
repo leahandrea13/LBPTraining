@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_c4ceYcEeEfCK-O8vD4SKNA" label="Leah_LBP_Training" language="java" technicalLabel="LEAH_LBP_TRAINING" author="_c4ceYsEeEfCK-O8vD4SKNA" productVersion="Qlik Talend Cloud Enterprise Edition-8.0.1.20250927_1321-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/leahandrea13/LBPTraining.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <componentsSettings xmi:id="_XFOB4MEmEfClJoCcCTnd8Q" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_XFOo8MEmEfClJoCcCTnd8Q" name="DI|tHashOutput" family="Technical"/>
+    <migrationTask xmi:id="_c8HdcMEeEfCK-O8vD4SKNA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_c4ceYsEeEfCK-O8vD4SKNA" login="lvdytioco@mtc.com.ph_nfr" firstName="Lead Andrea" lastName="Dytioco" type="DQ"/>
+</xmi:XMI>
